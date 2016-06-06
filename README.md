@@ -5,5 +5,6 @@
    * create DOM for input, and list items (use placeholders for items).
    * use REST API ````http://jsonplaceholder.typicode.com/users````
 
-### Notes
-1. for client-code use [MDN docs](https://developer.mozilla.org/en-US/).
+### Documentation reference
+1. client-side code : [MDN docs](https://developer.mozilla.org/en-US/).
+2. client-side code : [W3 schools](http://www.w3schools.com/)
